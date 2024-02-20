@@ -1,4 +1,4 @@
-print("Hello worls")
+
 class InvestorModule:
     def input_invest(self):
         self.invest_input = float(input("Enter your Investment Details in Rs : "))
